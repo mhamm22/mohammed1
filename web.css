@@ -92,6 +92,7 @@ section {
     margin-bottom: 20px;
 }
 
+
 .btn {
     background: linear-gradient(135deg, #1d8cf8, #3358f4);
     color: #fff;
@@ -151,7 +152,7 @@ section {
     width: 280px;
     text-align: center;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
-    margin: 50px;
+    margin: 70px;
     height: 400px;
     overflow: hidden;
 }
